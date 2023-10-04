@@ -1,0 +1,14 @@
+{
+  "name": "getting-started-jsdoc",
+  "version": "1.0.0",
+  "description": "JSDoc Crash Course",
+  "main": "src/index.js",
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "author": "Cristian Murillo",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdoc": "^4.0.2"
+  }
+}
